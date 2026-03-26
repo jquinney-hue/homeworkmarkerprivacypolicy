@@ -1,0 +1,51 @@
+Privacy Policy for ClassCharts Auto-Marker
+Effective Date: 26/03/2026
+
+We believe your data and your students' data must remain secure. This Privacy Policy explains how our extension works and outlines our strict commitment to your privacy.
+
+The short version: ClassCharts Auto-Marker runs entirely on your device. We do not collect, store on our servers, or share any of your personal data, student data, or homework content.
+
+1. Data Collection and Processing
+We do not collect any personal data. Because ClassCharts Auto-Marker is designed to work completely within your browser environment, all data processing happens locally.
+
+We do not track your browsing history.
+
+We do not collect telemetry, analytics, or usage data.
+
+We do not transmit grades, student names, or any document content to any external servers.
+
+2. Data Storage
+Any data required for the extension to function (such as your personal settings, preferences, or temporary session states between tabs) is saved using Google's persistent account storage (via your browser's storage API).
+
+This means your settings may sync across devices where you are logged into your Google account, handled entirely by Google's secure infrastructure.
+
+We have no access to this data. * You can manage or delete this data at any time by clearing your browser's extension data or uninstalling the extension.
+
+3. Data Sharing and Third Parties
+Because we do not collect your data on any of our own servers, we cannot and do not share, sell, or trade your data with any third parties. * The extension does not integrate with external APIs for its core functionality.
+
+There are no third-party tracking scripts or advertising modules embedded in the extension.
+
+4. Required Permissions and Host Access
+To function correctly and securely, ClassCharts Auto-Marker requires specific browser permissions. We operate on a principle of least privilege, meaning the extension only requests access to what it absolutely needs to do its job:
+
+Host Permissions (docs.google.com and www.classcharts.com): The extension only runs on the specific platforms required for marking: Google Forms, Google Sheets, and ClassCharts. It cannot read or modify data on any other websites you visit.
+
+activeTab & scripting: These permissions allow the extension to inject the necessary local scripts (sheets.js, classcharts.js, googleforms.js) to read the marking data from your active Google Form/Sheet and automatically input it into your active ClassCharts tab. No data is extracted to our servers.
+
+storage: This allows the extension to save your marking preferences or current session data securely via Google's persistent account storage.
+
+5. Your Rights and Control
+Since all data is tied exclusively to your Google account and local machine, you have complete control over it. You can delete all data associated with ClassCharts Auto-Marker at any time by:
+
+Clearing your browser's extension storage data.
+
+Uninstalling the extension from your browser.
+
+6. Changes to This Policy
+If we make any changes to this Privacy Policy, we will update this page and the "Effective Date" at the top. Because we do not collect your contact information, we cannot notify you directly of changes.
+
+7. Contact Us
+If you have any questions, concerns, or feedback regarding this Privacy Policy or how your data is handled, please contact us at:
+
+Email: James456987@live.com
